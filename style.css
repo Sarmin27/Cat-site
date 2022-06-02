@@ -1,0 +1,19 @@
+h3{
+    color:rgb(0, 64, 255);
+    background-color: rgb(153, 204, 255);
+}
+img{
+    position:absolute;
+    right:8px;
+    top:67px;
+    height:200px;
+    width:300px;
+}
+span{
+    color:rgb(0, 64, 255);
+    font-weight: bold;
+}
+table,th,td{
+    border-collapse: collapse;
+    border:1px solid black;
+}
